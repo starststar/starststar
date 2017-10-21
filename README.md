@@ -24,7 +24,7 @@ The data from http://help.sentiment140.com/for-students/ had sentiment ratings, 
 Future Work
 Cleanse the data that was retrieved from Twitter, and modify the changing colors of the legend.
 
-References: 
+References
 Bryl, S. Twitter sentiment analysis with R. (2014). http://analyzecore.com/2017/02/08/twitter-sentiment-analysis-doc2vec/. 
 Bryl, S. Twitter sentiment analysis with Machine Learning in R using doc2vec approach (part 1). (2017). http://analyzecore.com/2014/04/28/twitter-sentiment-analysis/.
 
